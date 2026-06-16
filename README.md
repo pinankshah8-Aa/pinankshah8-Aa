@@ -8,11 +8,11 @@ I'm a BE CSE (AI/ML) student learning open-source contribution, full-stack devel
 - Learning Git, GitHub, testing, and open-source contribution workflows
 
 ## 🛠️ Tech Stack
-- Languages: JavaScript, TypeScript, Python, C
-- Frontend: HTML, CSS, Tailwind CSS, React, Next.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code
+- **Languages:** JavaScript, TypeScript, Python, C
+- **Frontend:** HTML, CSS, Tailwind CSS, React, Next.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
 
 ## 🌱 Open Source Goals
 - Make my first meaningful open-source PR
@@ -20,16 +20,19 @@ I'm a BE CSE (AI/ML) student learning open-source contribution, full-stack devel
 - Apply for LFX Mentorship and GSoC
 
 ## 📌 Featured Project
+
 ### SmartPlate AI
 AI-powered food waste reduction system for PG/college mess management.
 
-Features:
+**Features:**
 - Attendance intent tracking
 - Menu voting
 - QR-based meal verification
 - AI-based portion prediction
 - Admin/student dashboards
 
-## 📫 Connect
-- GitHub: @pinankshah8-Aa
-- LinkedIn: www.linkedin.com/in/pinank-shah-633a1b37a
+**Repository:** [SmartPlate AI](https://github.com/pinankshah8-Aa/Smartplate-AI)
+
+## 📫 Connect With Me
+- GitHub: [@pinankshah8-Aa](https://github.com/pinankshah8-Aa)
+- LinkedIn: [Pinank Shah](https://www.linkedin.com/in/pinank-shah-633a1b37a)
