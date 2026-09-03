@@ -1,38 +1,40 @@
 # Hi, I'm Pinank Shah 👋
 
-I'm a BE CSE (AI/ML) student learning open-source contribution, full-stack development, and AI-powered applications.
+I'm a Computer Science student focused on software engineering, AI/ML, full-stack development, and open source. I enjoy building practical products and learning by working on real-world problems.
 
 ## 🚀 Currently Working On
-- Preparing for LFX Mentorship and GSoC
+- Learning open-source contribution through real production codebases
 - Building full-stack projects with Next.js, TypeScript, Node.js, and MongoDB
-- Learning Git, GitHub, testing, and open-source contribution workflows
+- Improving Git, GitHub, testing, and open-source contribution workflows
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, C
+- **Languages:** C++, JavaScript, TypeScript, Python
 - **Frontend:** HTML, CSS, Tailwind CSS, React, Next.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
 
 ## 🌱 Open Source Goals
-- Make my first meaningful open-source PR
-- Contribute to documentation, frontend issues, and beginner-friendly bugs
-- Apply for LFX Mentorship and GSoC
+- Make meaningful open-source contributions
+- Contribute to frontend, documentation, testing, and beginner-friendly issues
+- Grow toward programs such as GSoC and LFX Mentorship through consistent contributions
 
 ## 📌 Featured Project
 
 ### SmartPlate AI
-AI-powered food waste reduction system for PG/college mess management.
+An AI-powered food waste reduction and mess-management platform for PGs, hostels, and institutional mess systems.
 
 **Features:**
-- Attendance intent tracking
-- Menu voting
+- Meal intent tracking
+- Menu voting and feedback
 - QR-based meal verification
-- AI-based portion prediction
-- Admin/student dashboards
+- AI-supported meal prediction
+- Student, staff, admin, and owner dashboards
 
 **Repository:** [SmartPlate AI](https://github.com/pinankshah8-Aa/Smartplate-AI)
 
 ## 📫 Connect With Me
 - GitHub: [@pinankshah8-Aa](https://github.com/pinankshah8-Aa)
 - LinkedIn: [Pinank Shah](https://www.linkedin.com/in/pinank-shah-633a1b37a)
+- LeetCode: [pinankshah8-aa](https://leetcode.com/u/pinankshah8-aa/)
+- Codeforces: [pinankshah8](https://codeforces.com/profile/pinankshah8)
