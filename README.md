@@ -1,46 +1,47 @@
-# Hi, I'm Pinank Shah 👋
+<h1 align="center">Pinank Shah</h1>
 
-I'm a Computer Science student focused on software engineering, full-stack development, AI/ML, and open source. I enjoy tracing real product issues, building focused fixes, and validating them with regression tests and CI.
+<p align="center">
+  <strong>Applied AI Undergraduate · Software Engineering · Open Source</strong>
+</p>
 
-## Open Source Contributions
+<p align="center">
+  <a href="https://www.linkedin.com/in/pinank-shah-633a1b37a">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/pinankshah8-aa/">LeetCode</a> ·
+  <a href="https://codeforces.com/profile/pinankshah8">Codeforces</a> ·
+  <a href="https://smartplate-ai-two.vercel.app/">Live Project</a>
+</p>
 
-Selected upstream contributions:
+B.Tech CSE (Applied AI) student at Medhavi Skills University through Polaris School of Technology. I have **9 merged upstream pull requests across 8 open-source organizations**, including Apicurio Registry, Submitty, CHT/Medic, OpenMRS, Zulip, CircuitVerse, Meshery, and Jaeger.
 
-- **[Submitty #13383](https://github.com/Submitty/Submitty/pull/13383)** — fixed the missing live update for the first discussion-forum thread and added Cypress regression coverage.
-- **[OpenMRS #3627](https://github.com/openmrs/openmrs-esm-patient-chart/pull/3627)** — displayed human-readable names for reference-valued observations with focused tests.
-- **[Apicurio Registry #10019](https://github.com/Apicurio/apicurio-registry/pull/10019)** — corrected configuration-version metadata and generated documentation.
-- **[CircuitVerse #1304](https://github.com/CircuitVerse/cv-frontend-vue/pull/1304)** — made flip-flop types distinguishable on the simulator canvas.
-- **[Jaeger UI #4441](https://github.com/jaegertracing/jaeger-ui/pull/4441)** — repaired the Scorecard workflow by updating its pinned action dependency.
+I focus on reproducible fixes, regression tests, CI validation, and clear responses to maintainer review.
 
-I try to contribute through reproducible bug reports, focused changes, regression tests, careful CI validation, and responsive review follow-up.
+## Open-source highlights
 
-## 🛠️ Tech Stack
+- **Apicurio Registry:** two merged fixes covering case-insensitive artifact search and configuration metadata.
+- **Submitty:** fixed the missing real-time update for the first discussion-forum thread and added regression coverage.
+- **CHT/Medic:** centralized locale-independent date handling with invalid-timestamp and fallback coverage.
+- **OpenMRS O3:** displayed readable location names for reference-valued clinical observations.
+- **Zulip:** improved typeahead content layout using CSS Grid.
+- **CircuitVerse, Meshery, and Jaeger:** contributed simulator, validation, and CI maintenance fixes.
 
-- **Languages:** C++, Java, JavaScript, TypeScript, Python
-- **Frontend:** HTML, CSS, Tailwind CSS, React, Next.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Testing & tooling:** Git, GitHub Actions, Cypress, Vitest, PHPUnit, Maven, Docker
+[View all merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Apinankshah8-Aa+is%3Amerged)
 
-## 📌 Featured Project
+## Tech stack
 
-### SmartPlate AI
+- **Languages:** TypeScript, JavaScript, C++, Python, HTML, CSS
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend & Data:** Node.js, REST APIs, MongoDB, Mongoose, JWT
+- **Engineering:** Git, GitHub, GitHub Actions, CI debugging, regression testing, code review, DCO
+- **Applied AI:** Gemini API integration, AI-assisted product features
 
-An AI-powered food-waste reduction and mess-management platform for PGs, hostels, and institutional mess systems.
+## Featured project
 
-**Features:**
+### [SmartPlate AI](https://github.com/pinankshah8-Aa/Smartplate-AI)
 
-- Meal intent tracking
-- Menu voting and feedback
-- QR-based meal verification
-- AI-supported meal prediction
-- Student, staff, admin, and owner dashboards
+A deployed food-waste and mess-management platform built with Next.js, TypeScript, MongoDB, JWT, Tailwind CSS, and Gemini AI.
 
-**Repository:** [SmartPlate AI](https://github.com/pinankshah8-Aa/Smartplate-AI)
+- Meal-intent and weekly-menu workflows
+- Voting, feedback, and QR meal verification
+- Student, staff, admin, and owner roles
 
-## 📫 Connect With Me
-
-- GitHub: [@pinankshah8-Aa](https://github.com/pinankshah8-Aa)
-- LinkedIn: [Pinank Shah](https://www.linkedin.com/in/pinank-shah-633a1b37a)
-- LeetCode: [pinankshah8-aa](https://leetcode.com/u/pinankshah8-aa/)
-- Codeforces: [pinankshah8](https://codeforces.com/profile/pinankshah8)
+[Live demo](https://smartplate-ai-two.vercel.app/)
